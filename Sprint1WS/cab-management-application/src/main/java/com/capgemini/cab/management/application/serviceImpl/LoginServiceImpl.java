@@ -7,6 +7,9 @@ import com.capgemini.cab.management.application.domain.Login;
 import com.capgemini.cab.management.application.repository.LoginRepository;
 import com.capgemini.cab.management.application.service.LoginService;
  
+/*
+ * This class checks if login details entered are correct or not
+ */
 @Service
 public class LoginServiceImpl implements LoginService {
 	

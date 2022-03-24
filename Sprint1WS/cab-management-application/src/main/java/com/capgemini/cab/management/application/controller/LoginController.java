@@ -44,8 +44,7 @@ public class LoginController {
 
      } else {
      return "redirect:/login";
-    
-    
+
      }
 }
     

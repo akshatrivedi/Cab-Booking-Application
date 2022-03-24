@@ -2,8 +2,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Login Page</title>
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/cosmo/bootstrap.min.css" />
+
+<!-- you can remove the styling, this is just for sample -->
+
 </head>
 <body>
     
@@ -40,7 +43,7 @@
     }
     
     
-</style>
+</style> <!-- styling ends here -->
  
     </head>
     <body>
@@ -66,12 +69,12 @@
                 <td>Username</td>
                 <td>
             
-                <input type="text" th:field="*{username}" class="form-control" />
+                <input type="text" th:field="*{username}" class="form-control" /> <!-- inputs username -->
                 </td>
             </tr>
             <tr>
                 <td>Password</td>
-                <td><input type="password" th:field="*{password}" class="form-control" /></td>
+                <td><input type="password" th:field="*{password}" class="form-control" /></td>  <!-- inputs password -->
             </tr>
             <tr>
             <td colspan="2"><button type="submit" class="btn btn-info" align="right">Login</button> </td>
