@@ -1,2 +1,24 @@
 1648021626360	Move compilation unit
 1648092802353	Rename type 'CustomerRepository'
+1648100680533	Rename package 'com.capgemini.cab.management.application.security'
+1648100896576	Rename package 'com.capgemini.cab.management.application.securityconfig'
+1648118910835	Delete elements
+1648118913962	Delete element
+1648118916756	Delete element
+1648118921009	Delete element
+1648119335632	Delete element
+1648122136169	Delete element
+1648122138878	Delete element
+1648122157831	Delete element
+1648122160882	Delete element
+1648122168502	Rename package 'com.capgemini.cab.management.application.controler'
+1648122211682	Move compilation unit
+1648122214526	Delete element
+1648122218756	Delete elements
+1648122222376	Delete element
+1648122338298	Delete element
+1648122353464	Delete elements
+1648122360815	Delete elements
+1648122363728	Delete element
+1648123401528	Rename resource 'index.jsp'
+1648123410797	Rename resource 'login.jsp'

@@ -1,0 +1,19 @@
+package com.capgemini.cab.management.application.service;
+
+import org.springframework.stereotype.Service;
+
+import com.capgemini.cab.management.application.controller.EmailValidator;
+
+import lombok.AllArgsConstructor;
+
+@Service
+@AllArgsConstructor
+public class RegistrationService {
+	
+	private EmailValidator emailValidator;
+
+	public String register(RegistrationRequest request) {
+		emailValidator.test(request.getEmail());
+		return "It works";
+	}
+}

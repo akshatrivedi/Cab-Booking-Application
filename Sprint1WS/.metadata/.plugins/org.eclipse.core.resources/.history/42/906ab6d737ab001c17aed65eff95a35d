@@ -1,0 +1,8 @@
+package com.capgemini.cab.management.application.security;
+
+public class PasswordEncoder{
+	
+	
+	
+	
+}

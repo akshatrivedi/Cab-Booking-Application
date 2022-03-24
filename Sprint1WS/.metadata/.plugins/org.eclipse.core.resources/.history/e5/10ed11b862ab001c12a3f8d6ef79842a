@@ -1,0 +1,12 @@
+package com.capgemini.cab.management.application.service;
+
+import org.springframework.stereotype.Service;
+
+import com.capgemini.cab.management.application.domain.Login;
+
+@Service
+public interface LoginService {
+
+	  
+	  public Login login(String username, String password);
+}

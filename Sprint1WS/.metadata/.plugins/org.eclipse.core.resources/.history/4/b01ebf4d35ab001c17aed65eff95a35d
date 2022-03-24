@@ -1,0 +1,9 @@
+package com.capgemini.cab.management.application.service;
+
+public class RegistrationService {
+
+	public String register(RegistrationRequest request) {
+		return null;
+	}
+
+}
