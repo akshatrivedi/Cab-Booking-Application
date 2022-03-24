@@ -1,0 +1,6 @@
+package com.capgemini.cab.management.application.repository;
+
+
+public interface CustomerRepository {
+
+}
