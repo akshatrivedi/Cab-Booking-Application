@@ -1,0 +1,10 @@
+package com.capgemini.cab.management.application.serviceImpl;
+
+import org.springframework.stereotype.Service;
+
+import com.capgemini.cab.management.application.service.CabService;
+
+@Service
+public class CabServiceImpl implements CabService {
+
+}
