@@ -57,7 +57,6 @@ INDEX VERSION 1.131+F:\Sprint1WS\.metadata\.plugins\org.eclipse.jdt.core
 578789385.index
 403104386.index
 3056916494.index
-3100852649.index
 716090970.index
 455034611.index
 4286758372.index
