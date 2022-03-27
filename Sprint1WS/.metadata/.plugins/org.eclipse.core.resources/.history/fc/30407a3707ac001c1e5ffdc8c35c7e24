@@ -1,0 +1,10 @@
+package com.capgemini.cab.management.application.domain;
+
+public class Cab {
+
+	private int id;
+	
+	private String carType;
+	
+	private float perKmRate;
+}

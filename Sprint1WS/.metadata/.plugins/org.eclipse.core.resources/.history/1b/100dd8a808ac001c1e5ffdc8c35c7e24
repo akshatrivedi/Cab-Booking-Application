@@ -1,0 +1,7 @@
+package com.capgemini.cab.management.application.serviceImpl;
+
+import com.capgemini.cab.management.application.service.CabService;
+
+public class CabServiceImpl implements CabService {
+
+}

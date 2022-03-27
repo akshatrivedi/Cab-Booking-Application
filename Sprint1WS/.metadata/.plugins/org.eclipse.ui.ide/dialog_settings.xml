@@ -92,6 +92,9 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="F:\student-management-system-springboot-main"/>
+			<item value="F:\spring-basic-security-master"/>
+			<item value="F:\loginapi1"/>
 			<item value="F:\login-registration-backend-master"/>
 			<item value="F:\Sprint1WS\cab-management-application"/>
 		</list>

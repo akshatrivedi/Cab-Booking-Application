@@ -24,7 +24,6 @@ public class LoginController {
  
                                   
     @GetMapping("/login")
-          
     public ModelAndView login() {
      ModelAndView mav = new ModelAndView("login");
         mav.addObject("user", new Login());
@@ -40,11 +39,12 @@ public class LoginController {
      System.out.print(oauthUser);
      if(Objects.nonNull(oauthUser))
      {
-     return "redirect:/";
+     return "redirect:/cabs";
 
      } else {
+    	 System.out.println("wrong details, enter again");
      return "redirect:/login";
-
+     
      }
 }
     
